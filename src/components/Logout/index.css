@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.logoutBtn {
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  font-family: roboto;
+  font-size: 18px;
+  color: #303150;
+  background-color: white;
+}

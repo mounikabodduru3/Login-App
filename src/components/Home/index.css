@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  height: 350px;
+  width: 400px;
+  background-size: cover;
+}
